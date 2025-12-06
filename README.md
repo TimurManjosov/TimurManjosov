@@ -10,11 +10,6 @@
   ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- Visitor counter: subtle placement at top for analytics without clutter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=timurmanjosov&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views"/>
-</p>
-
 <!-- Typing animation: creates dynamic hook while maintaining minimalism -->
 <p align="center">
   <a href="https://git.io/typing-svg">

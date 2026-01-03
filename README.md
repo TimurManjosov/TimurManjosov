@@ -31,7 +31,7 @@ Working with databases and infrastructure
 
 ## Tech I Use
 
-Languages: TypeScript, Python, JavaScript  
+Languages: TypeScript, Rust, Golang  
 Backend: Node.js, Redis, SQL  
 Tools: Docker, Git
 
